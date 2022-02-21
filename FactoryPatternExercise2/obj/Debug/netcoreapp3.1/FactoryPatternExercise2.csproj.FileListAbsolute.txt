@@ -1,0 +1,14 @@
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.exe
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.deps.json
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.dev.json
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\jesse mascorro\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.genruntimeconfig.cache
